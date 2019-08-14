@@ -5,6 +5,7 @@ Integrating touch controls into the bi-colors led matrix 16x32. It can be used t
 Youtube link
 
 Touch toggle buttons: https://www.youtube.com/watch?v=FiFScmzkWQw
+
 Calibration work: https://www.youtube.com/watch?v=wwjCylKhwsw
 
 Instructable link: https://www.instructables.com/id/LED-MATRIX-TOUCH-CONTROL/
